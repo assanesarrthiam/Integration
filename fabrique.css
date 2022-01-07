@@ -4,32 +4,23 @@
 {
 
             width :100% ;
+            max-width: 100%;
             
             
 }
  
-
-
- 
-
-
-
-{
-
-            width :100% ;
-
-            padding :0px ;
-
-}
-
- 
-
 #IMG{
-  
+  max-width: 100%;
   width: 100%;
+  height: auto;
 }
  
-
+#b{
+  width: 80%;
+}
+#d{
+  width: 80%;
+}
 #Bg
 
 {
